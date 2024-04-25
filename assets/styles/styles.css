@@ -741,7 +741,7 @@ a {
   .blue .text p {
     margin-bottom: 35px;
     padding: 5px;
-    font-size: 12px;
+    font-size: 13px;
     color: #fff;
     align-self: center;
     justify-content: center;
@@ -749,7 +749,7 @@ a {
   }
 
   .white-text ul {
-    font-size: 16px;
+    font-size: 17px;
   }
 
   .list {
@@ -766,12 +766,12 @@ a {
   }
 
   .about-us img {
-    max-width: 450px;
+    max-width: 451px;
     margin: 0;
   }
 
   .prime-two {
-    max-width: 450px;
+    max-width: 451px;
   }
 
   .about-us .para-two {
